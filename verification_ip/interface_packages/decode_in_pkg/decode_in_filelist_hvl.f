@@ -1,0 +1,2 @@
+$UVMF_VIP_LIBRARY_HOME/interface_packages/decode_in_pkg/decode_in_pkg_hdl.sv
+$UVMF_VIP_LIBRARY_HOME/interface_packages/decode_in_pkg/decode_in_pkg.sv
